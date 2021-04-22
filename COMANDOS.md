@@ -16,7 +16,7 @@ npm add typeorm reflect-metadata sqlite3 **CONFIG BANCO DE DADOS, APOS ISSO CRIA
 
 npx typeorm migration:create -n CreateSettings **CRIAR UMA MIGRATION**
 
-npx typeorm migration:run **SUBIR UMA TABELA**
+npm run typeorm migration:run **SUBIR UMA TABELA**
 
 npx typeorm migration:revert **REVERTER TABELA**
 
@@ -35,7 +35,7 @@ Body Params => no corpo de requisição - {
 }
 
 
-
+**Order é: criar migration inserir as infos de dados na mesma => criar respositorio => Criar pasta services => criar controller => **
 //é um javascript melhorada com algumas adições, conseguimos tipar os objetos e atributos a receber
 //void-não tem retorno na função
 
