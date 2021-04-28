@@ -1,4 +1,5 @@
 # NLW NodeJS
+![imagem](next-level-week.png)
 
 ## Índice
 
@@ -14,8 +15,11 @@ Sempre com um conteúdo novo a cada edição, você vai descobre na prática uma
 
 
 ## 2. Resumo do projeto
-A ideia proposta foi fazer um chat de mensagem instantânea utilizando socket io ,Typescript, framework express entre outras ferramentas, onde é possível registrar os usuários 
-e seu histórico de conversas. Onde existe a tela do cliente que precisa de ajuda e do atendente adm onde presta o atendimento.
+A ideia proposta foi fazer um chat de mensagem instantânea utilizando socket io ,Typescript, framework express entre outras ferramentas, onde é possível registrar os usuários e seu histórico de conversas. Onde existe a tela do cliente que precisa de ajuda e do atendente adm onde presta o atendimento.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/carolineshimada/NLW-05/main/chat.gif" >
+</p>
 
 
 ## 3. Futuras melhorias
