@@ -5,7 +5,7 @@
 * [1. Introdução](#1-introducao)
 * [2. Resumo do projeto](#2-resumo-do-projeto)
 * [3. Futuras melhorias](#3-futuras-melhorias)
-* [4. Tecnologias Utilizadas](#3-tecnologias-utilizadas)
+* [4. Tecnologias Utilizadas](#4-tecnologias-utilizadas)
 
 ## 1. Introdução
 
