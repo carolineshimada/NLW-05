@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
-Este trabalho foi desenvolvido no evento Next Level Week da RocketSeat.O NLW é um evento online com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. 
+Este trabalho foi desenvolvido no evento Next Level Week da RocketSeat. O NLW é um evento online com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. 
 Sempre com um conteúdo novo a cada edição, você vai descobre na prática uma metodologia eficiente para o seu aprendizado, além de conceitos, ferramentas e hacks que vão impulsionar sua carreira.
 
 
