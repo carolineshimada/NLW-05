@@ -1,11 +1,10 @@
-import express from 'express';//tres pontinhos quer dizer que esta com tipagem separada
-import './database';
-import { routes } from "./routes"
+import {http} from "./http"
+import "./websocket/client"
 
-const app = express();
-app.use(express.json());
-app.use(routes);
-app.listen(3333, () => console.log('Server is running on port 3333'));
+http.listen(3333, () => console.log('Server is running on port 3333'));
+
+//foi necessário substituir pelo http pois agora iremos utilizar o WS
+//app.listen(3333, () => console.log('Server is running on port 3333'));
 
 
 

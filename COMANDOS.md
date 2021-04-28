@@ -34,6 +34,7 @@ Body Params => no corpo de requisição - {
     objeto para enviar requisição
 }
 
+npm add @types/socket.io -D **instalar tipagem socket** 
 
 **Order é: criar migration inserir as infos de dados na mesma => criar respositorio => Criar pasta services => criar controller => **
 //é um javascript melhorada com algumas adições, conseguimos tipar os objetos e atributos a receber
