@@ -41,5 +41,5 @@ A ideia proposta foi fazer um chat de mensagem instantânea utilizando socket io
 ![Express](https://img.shields.io/badge/-express-red?style=flat-square&logo=express)
 ![SocketIo](https://img.shields.io/badge/-SocketIo-black?style=flat-square&logo=socketio)
 ![Mustache](https://img.shields.io/badge/-Mustache-brown?style=flat-square&logo=mustache)
-![SQlite](https://img.shields.io/badge/SQlite-yellow?style=flat-square&logo=sqlite)
+![SQlite](https://img.shields.io/badge/SQlite-brown?style=flat-square&logo=sqlite)
 
